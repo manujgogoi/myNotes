@@ -23,4 +23,4 @@ Updated at: 15-06-2023
 
 1. [Hello World standalone console program](https://github.com/project-startups/nodejs01HelloWorld)
 
-2.
+2. [Hello World simplest webserver snippet](https://github.com/project-startups/nodejs02ServerHelloWorld)
