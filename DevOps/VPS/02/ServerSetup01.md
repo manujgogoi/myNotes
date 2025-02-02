@@ -186,3 +186,7 @@ sudo usermod -aG docker manujgogoi
 # Restart the ssh connection and run the following
 docker ps # without sudo command
 ```
+
+## Local Dev Setup
+
+[Instructions](/DevOps/VPS/02/LocalDevSetup.md)
