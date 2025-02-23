@@ -187,6 +187,20 @@ sudo usermod -aG docker manujgogoi
 docker ps # without sudo command
 ```
 
-## Local Dev Setup
+## Local Dev Setup (Skipped)
 
 [Instructions](/DevOps/VPS/02/LocalDevSetup.md)
+
+## Deploy NextJs App + Prisma + PostgreSQL using Docker
+
+[Github Repo](https://github.com/digilipi/ne-updates)
+
+```bash
+ssh manujgogoi@91.108.111.136
+# Enter passkey (dialog from matrix)
+
+# Generate SSH key to access private github repo
+ssh-keygen -t rsa -b 4096 -C "manujgogoi@gmail.com"
+cat ~/.ssh/id_rsa.pub
+# Copy the output (it starts with ssh-rsa)
+```
